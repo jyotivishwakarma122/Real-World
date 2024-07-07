@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jyotivishwakarma122/Real-World.git/static/css/main.cf88f824.css",
-    "main.js": "/jyotivishwakarma122/Real-World.git/static/js/main.4fad235a.js",
-    "static/js/453.adc199bd.chunk.js": "/jyotivishwakarma122/Real-World.git/static/js/453.adc199bd.chunk.js",
-    "static/media/Loading.gif": "/jyotivishwakarma122/Real-World.git/static/media/Loading.26b605cfb225a7a2923a.gif",
-    "index.html": "/jyotivishwakarma122/Real-World.git/index.html",
-    "main.cf88f824.css.map": "/jyotivishwakarma122/Real-World.git/static/css/main.cf88f824.css.map",
-    "main.4fad235a.js.map": "/jyotivishwakarma122/Real-World.git/static/js/main.4fad235a.js.map",
-    "453.adc199bd.chunk.js.map": "/jyotivishwakarma122/Real-World.git/static/js/453.adc199bd.chunk.js.map"
+    "main.css": "/Real-World/static/css/main.cf88f824.css",
+    "main.js": "/Real-World/static/js/main.05ff2cd8.js",
+    "static/js/453.adc199bd.chunk.js": "/Real-World/static/js/453.adc199bd.chunk.js",
+    "static/media/Loading.gif": "/Real-World/static/media/Loading.26b605cfb225a7a2923a.gif",
+    "index.html": "/Real-World/index.html",
+    "main.cf88f824.css.map": "/Real-World/static/css/main.cf88f824.css.map",
+    "main.05ff2cd8.js.map": "/Real-World/static/js/main.05ff2cd8.js.map",
+    "453.adc199bd.chunk.js.map": "/Real-World/static/js/453.adc199bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf88f824.css",
-    "static/js/main.4fad235a.js"
+    "static/js/main.05ff2cd8.js"
   ]
 }
